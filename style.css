@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+
+#board{
+    background-color: gray;
+    border-bottom: 20px solid black;
+}
+
+button{
+    width: 160px;
+    height: 45px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 20px;
+    background-color: black;
+    color: orangered;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: red;
+    color: black;
+}
